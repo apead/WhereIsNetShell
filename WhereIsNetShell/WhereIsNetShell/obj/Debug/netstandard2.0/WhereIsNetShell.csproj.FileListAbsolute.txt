@@ -1,0 +1,16 @@
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\bin\Debug\netstandard2.0\WhereIsNetShell.deps.json
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\bin\Debug\netstandard2.0\WhereIsNetShell.dll
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\bin\Debug\netstandard2.0\WhereIsNetShell.pdb
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.csprojAssemblyReference.cache
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.csproj.CoreCompileInputs.cache
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.AssemblyInfoInputs.cache
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.AssemblyInfo.cs
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.dll
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\WhereIsNetShell.pdb
+C:\sqlsat2019\WhereIsNetShellSln\WhereIsNetShell\WhereIsNetShell\obj\Debug\netstandard2.0\XamlC.stamp
